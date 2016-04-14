@@ -1,2 +1,2 @@
 # amenakakomachi
-一个开源的练习JSPBLOG项目
+一个开源的联系BLOG项目
